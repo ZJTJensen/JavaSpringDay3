@@ -1,0 +1,3 @@
+Lecture Day 3 of Spring:
+
+The cycle: On how the computer retrives database information (again).
